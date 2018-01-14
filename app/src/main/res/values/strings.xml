@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Opp</string>
+    <string name="opstring">OOP String</string>
+    <string name="hitung">hitung</string>
+    <string name="kelasop">Materi OOP</string>
+    <string name="opint">Integer OOP</string>
+</resources>
